@@ -1,0 +1,92 @@
+[
+   {
+     "qno": 1,
+"question": " Simplify: 2x−3(4−x)=?",
+"opa": "5x-12",
+"opb": "−10+3x",
+"opc": "5x−10",
+"opd": "5x+12",
+"correctanswer": "1"
+},
+   {
+     "qno": 2,
+"question": "In triangle ABC, angle A = 50° and angle B = 60°. What is angle C?",
+"opa": "60°",
+"opb": "70°",
+"opc": "80°",
+"opd": "90°",
+"correctanswer": "2"
+},
+   {
+     "qno": 3,
+"question": "The average of five numbers is 20. If one of the numbers is 25, what is the average of the remaining four numbers?",
+"opa": "18.75",
+"opb": "19",
+"opc": "20",
+"opd": "21.25",
+"correctanswer": "1"
+},
+   {
+     "qno": 4,
+"question": " A number is increased by 20% and then decreased by 20%. What is the net percentage change?",
+"opa": "0%",
+"opb": "4% decrease",
+"opc": "4% increase",
+"opd": "20% decrease",
+"correctanswer": "2"
+},
+   {
+     "qno": 5,
+"question": " What is the volume of a cube of side 5 cm?",
+"opa": "125 cm³",
+"opb": "150 cm³",
+"opc": "25 cm³",
+"opd": "100 cm³",
+"correctanswer": "1"
+},
+   {
+     "qno": 6,
+"question": "What is the value of 2/3 + 3/4?",
+"opa": "17/12",
+"opb": "5/7",
+"opc": "1/2",
+"opd": "11/12",
+"correctanswer": "1"
+},
+   {
+     "qno": 7,
+"question": "Solve for x: 2x-3/4 = x+1/2",
+"opa": "5",
+"opb": "7",
+"opc": "9",
+"opd": "none of these",
+"correctanswer": "4"
+},
+   {
+     "qno": 8,
+"question": "What is the value of 2^3 × 2^4?",
+"opa": "128",
+"opb": "16",
+"opc": "32",
+"opd": "256",
+"correctanswer": "1"
+},
+   {
+     "qno": 9,
+"question": "The marks of 5 students are: 70, 65, 80, 75, 90. What is the mean?",
+"opa": "75,
+"opb": "76",
+"opc": "78",
+"opd": "72",
+"correctanswer": "2"
+},
+   {
+     "qno": 10,
+"question": "Which of the following is not a rational number?",
+"opa": "-3/7",
+"opb": "0",
+"opc": "√2",
+"opd": "5/1",
+"correctanswer": "√2"
+}
+]
