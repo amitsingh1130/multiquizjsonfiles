@@ -1,0 +1,92 @@
+[
+   {
+     "qno": 1,
+"question": "Simplify: 3/4 ÷ 1/2",
+"opa": "3/8",
+"opb": "3/2",
+"opc": "2/3",
+"opd": "1/4",
+"correctanswer": "2"
+},
+ {
+     "qno": 2,
+"question": "Solve: 5x − 2 = 18. What is x?",
+"opa": "4",
+"opb": "5",
+"opc": "3",
+"opd": "2",
+"correctanswer": "1"
+},
+ {
+     "qno": 3,
+"question": "What is the mean of these numbers: 10, 20, 30, 40, 50?",
+"opa": "25",
+"opb": "30",
+"opc": "40",
+"opd": "50",
+"correctanswer": "2"
+},
+ {
+     "qno": 4,
+"question": "A man walks 3 km north, then turns east and walks 4 km. What is the shortest distance from his starting point?",
+"opa": "5 km", 
+"opb": "7 km",
+"opc": "6 km",
+"opd": "1 km",
+"correctanswer": "1"
+},
+ {
+     "qno": 5,
+"question": " Which of the following is a rational number?",
+"opa": "√2",
+"opb": "π",
+"opc": "3/5",
+"opd": "√3",
+"correctanswer": "3"
+},
+ {
+     "qno": 6,
+"question": "If a:b = 2:3 and b:c = 4:5, then what is a:c?",
+"opa": " 8:15",
+"opb": "3:4",
+"opc": "2:5",
+"opd": "4:6",
+"correctanswer": "1"
+},
+ {
+     "qno": 7,
+"question": "The value of (−3) × (−5) × (2) is:",
+"opa": "-30",
+"opb": "30",
+"opc": "-10",
+"opd": "10",
+"correctanswer": "2"
+},
+ {
+     "qno": 8,
+"question": "If 3(x − 2) = 12, then x = ?",
+"opa": "6",
+"opb": "5",
+"opc": "8",
+"opd": "4",
+"correctanswer": "3"
+},
+ {
+     "qno": 9,
+"question": "What is the square root of 225?",
+"opa": "12",
+"opb": "14",
+"opc": "15",
+"opd": "16",
+"correctanswer": "3"
+},
+ {
+     "qno": 10,
+"question": "Simplify: (2/3) + (4/5)",
+"opa": "6/15",
+"opb": "22/15",
+"opc": "14/15",
+"opd": " 10/8",
+"correctanswer": "2"
+} 
+]
