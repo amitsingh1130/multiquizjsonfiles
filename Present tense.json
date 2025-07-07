@@ -1,0 +1,92 @@
+[
+   {
+     "qno": 1,
+"question": "She____to school evert day.",
+"opa": "go",
+"opb": "goes",
+"opc": "going",
+"opd": "gone",
+"correctanswer": "2"
+},
+{
+     "qno": 2,
+"question": "They ___ lunch at the moment.",
+"opa": "eat",
+"opb": "are eating ",
+"opc": "ate",
+"opd": "eats",
+"correctanswer": "2"
+},
+{
+     "qno": 3,
+"question": "I ___ never seen such a beautiful painting.",
+"opa": "has",
+"opb": "have",
+"opc": "had",
+"opd": "am",
+"correctanswer": "2"
+},
+{
+     "qno": 4,
+"question": " We usually ___ tennis on Sundays.",
+"opa": "plays",
+"opb": "are playing",
+"opc": "play",
+"opd": "are played",
+"correctanswer": "3"
+},
+{
+     "qno": 5,
+"question": "He ___ his homework now.",
+"opa": "do",
+"opb": "does",
+"opc": "is doing",
+"opd": "doing",
+"correctanswer": "3"
+},
+{
+     "qno": 6,
+"question": "She ___ in this company for five years.",
+"opa": "works",
+"opb": "is working",
+"opc": "work",
+"opd": "has worked",
+"correctanswer": "4"
+},
+{
+     "qno": 7,
+"question": "The sun ___ in the east.",
+"opa": "rise",
+"opb": "rises",
+"opc": "rising",
+"opd": "has risen",
+"correctanswer": "2"
+},
+{
+     "qno": 8,
+"question": " I ___ my keys. I can't find them.",
+"opa": "lost",
+"opb": "has lost",
+"opc": "lose",
+"opd": "am losing",
+"correctanswer": "2"
+},
+{
+     "qno": 9,
+"question": " We ___ for the bus right now.",
+"opa": "wait",
+"opb": "are waiting",
+"opc": "waited",
+"opd": "have waited",
+"correctanswer": "2"
+},
+{
+     "qno": 10,
+"question": " My parents ___ in New York.",
+"opa": "lives",
+"opb": "living",
+"opc": "live",
+"opd": "are live",
+"correctanswer": "3"
+} 
+]
