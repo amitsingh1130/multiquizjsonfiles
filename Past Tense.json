@@ -1,0 +1,93 @@
+[
+{
+     "qno": 1,
+"question": "She ___ to the market yesterday.",
+"opa": "go",
+"opb": "goes",
+"opc": "went",
+"opd": "going",
+"correctanswer": "3"
+},
+{
+     "qno": 2,
+"question": "They ___ dinner when the phone rang.",
+"opa": "had",
+"opb": "were having",
+"opc": "have",
+"opd": "has",
+"correctanswer": "2"
+},
+{
+     "qno": 3,
+"question": " I ___ my homework before the movie started.",
+"opa": "finish",
+"opb": "had finished",
+"opc": "finished",
+"opd": "was finishing",
+"correctanswer": "2"
+},
+{
+     "qno": 4,
+"question": " He ___ TV all evening.",
+"opa": "watch",
+"opb": "watched",
+"opc": "was watching",
+"opd": "had watched",
+"correctanswer": "3"
+},
+{
+     "qno": 5,
+"question": "We ___ in London for five years.",
+"opa": "lived",
+"opb": "live",
+"opc": "were living",
+"opd": "had been live",
+"correctanswer": "1"
+},
+{
+     "qno": 6,
+"question": "The train ___ before we reached the station.",
+"opa": "left",
+"opb": "was leaving",
+"opc": "had left",
+"opd": "leaves",
+"correctanswer": "3"
+},
+{
+     "qno": 7,
+"question": " I ___ a strange noise last night.",
+"opa": "hear",
+"opb": "heard",
+"opc": "was hearing",
+"opd": "had hear",
+"correctanswer": "2"
+},
+{
+     "qno": 8,
+"question": "While she ___, it started to rain.",
+"opa": "walked",
+"opb": "was walking",
+"opc": "has walked",
+"opd": "walks",
+"correctanswer": "2"
+},
+{
+     "qno": 9,
+"question": " They ___ the movie already when I arrived.",
+"opa": "watched",
+"opb": "had watched",
+"opc": "were watching",
+"opd": "watches",
+"correctanswer": "2"
+},
+{
+     "qno": 10,
+"question": " They ___ the movie already when I arrived.",
+"opa": "studies",
+"opb": "studied",
+"opc": "had studied",
+"opd": "was studying",
+"correctanswer": "4"
+}
+]
+
