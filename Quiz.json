@@ -2,12 +2,12 @@
     {
         "quizno": 1,
         "quizname": "Mathematics",
-        "url": ""
+        "url": "https://amitsingh1130.github.io/multiquizjsonfiles/Mathematics.json"
     },
      {
         "quizno": 2,
         "quizname": "English",
-        "url": ""
+        "url": "https://amitsingh1130.github.io/multiquizjsonfiles/English.json"
     }
 ]
      
