@@ -4,18 +4,10 @@
         "quizname": "Mathematics",
         "url": ""
     },
-    {
+     {
         "quizno": 2,
-        "quizname": "Physics",
+        "quizname": "English",
         "url": ""
-    },
-  {
-    "quizno": 3,
-    "quizname": "Chemistry",
-    "url": ""
-  },
-  "quizno": 1,
-  "quizname": "English",
-  "url": ""
-  }
+    }
 ]
+     
