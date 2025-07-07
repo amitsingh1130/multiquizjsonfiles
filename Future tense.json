@@ -1,0 +1,92 @@
+[
+{
+     "qno": 1,
+"question": "She ________ to Paris next week.",
+"opa": "will go",
+"opb": "goes",
+"opc": "went",
+"opd": "going",
+"correctanswer": "1"
+},
+{
+     "qno": 2,
+"question": "Choose the correct sentence in future continuous tense:",
+"opa": "She will studying all night.",
+"opb": "She will studies all night.",
+"opc": " She will be studying all night.",
+"opd": "She studies all night.",
+"correctanswer": "3"
+},
+{
+     "qno": 3,
+"question": "By 2026, he ________ his degree.",
+"opa": "will complete",
+"opb": " will have completed",
+"opc": "completes",
+"opd": "completed",
+"correctanswer": "2"
+},
+{
+     "qno": 4,
+"question": "Which sentence is in the simple future tense?",
+"opa": "I was watching a movie.",
+"opb": "I will watch a movie.",
+"opc": "I had watched a movie.",
+"opd": "I watch a movie.",
+"correctanswer": "2"
+},
+{
+     "qno": 5,
+"question": "They ________ lunch by the time we arrive.",
+"opa": "will have eaten",
+"opb": "eat",
+"opc": "ate",
+"opd": " are eating",
+"correctanswer": "1"
+},
+{
+     "qno": 6,
+"question": "Which sentence is in the future continuous tense?",
+"opa": "I will be visiting my grandparents tomorrow.",
+"opb": " I visited my grandparents tomorrow.",
+"opc": "I have been visiting my grandparents.",
+"opd": "I am visiting my grandparents.",
+"correctanswer": "1"
+},
+{
+     "qno": 7,
+"question": "We ________ the project by Friday.",
+"opa": "will have finished",
+"opb": "finish",
+"opc": "will finishing",
+"opd": "finishes",
+"correctanswer": "1"
+},
+{
+     "qno": 8,
+"question": "Identify the correct future tense sentence:",
+"opa": "He is going to plays tennis.",
+"opb": "He will going to play tennis.",
+"opc": "He is going to play tennis.",
+"opd": "He play tennis tomorrow.",
+"correctanswer": "3"
+},
+{
+     "qno": 9,
+"question": "They ________ a new house next year.",
+"opa": " bought",
+"opb": "are buying",
+"opc": "will buy",
+"opd": "buys",
+"correctanswer": "3"
+},
+{
+     "qno": 10,
+"question": "Which sentence shows future perfect tense?",
+"opa": "I will be finishing the report soon.",
+"opb": "I will have finished the report by noon.",
+"opc": "I finish the report later.",
+"opd": "I am going to finish the report.",
+"correctanswer": "2"
+}
+]
