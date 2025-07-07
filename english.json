@@ -6,12 +6,12 @@
     },
     {
         "quizno": 2,
-        "quizname": "Past tense.json",
+        "class": "Past tense.json",
         "url": "https://amitsingh1130.github.io/multiquizjsonfiles/Past%20tense.json"
     },
   {
     "quizno": 3,
-    "quizname": "Future tense.json",
+    "class": "Future tense.json",
     "url": "https://amitsingh1130.github.io/multiquizjsonfiles/Future%20tense.json"
   }
 ]
