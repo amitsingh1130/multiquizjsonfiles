@@ -2,16 +2,16 @@
     {
         "quizno": 1,
         "class": "Present tense.json",
-        "url": ""
+        "url": "https://amitsingh1130.github.io/multiquizjsonfiles/Present%20tense.json"
     },
     {
         "quizno": 2,
         "quizname": "Past tense.json",
-        "url": ""
+        "url": "https://amitsingh1130.github.io/multiquizjsonfiles/Past%20tense.json"
     },
   {
     "quizno": 3,
     "quizname": "Future tense.json",
-    "url": ""
+    "url": "https://amitsingh1130.github.io/multiquizjsonfiles/Future%20tense.json"
   }
 ]
