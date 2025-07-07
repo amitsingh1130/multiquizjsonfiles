@@ -1,0 +1,12 @@
+[
+    {
+        "quizno": 1,
+        "quizname": "maths",
+        "url": "https://amitsingh1130.github.io/multiquizjsonfiles/maths.json"
+    },
+     {
+        "quizno": 2,
+        "quizname": "science",
+        "url": "https://amitsingh1130.github.io/multiquizjsonfiles/Science.json"
+    }
+]
