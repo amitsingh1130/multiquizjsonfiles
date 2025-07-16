@@ -1,12 +1,17 @@
 [
     {
         "quizno": 1,
-        "subject": "maths",
-        "url": "https://amitsingh1130.github.io/multiquizjsonfiles/maths.json"
+        "subject": "past tense",
+        "url": "https://amitsingh1130.github.io/multiquizjsonfiles/past%20tense.json"
     },
      {
         "quizno": 2,
-        "subject": "science",
-        "url": "https://amitsingh1130.github.io/multiquizjsonfiles/science.json"
+        "subject": "present tense",
+        "url": "https://amitsingh1130.github.io/multiquizjsonfiles/present%20tense.json"
+    },
+    {
+        "quizno": 3,
+        "subject": "future",
+        "url": "https://amitsingh1130.github.io/multiquizjsonfiles/future%20tense.json"
     }
 ]
