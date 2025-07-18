@@ -1,0 +1,14 @@
+{
+  "Students": [
+  {"name": "Amit", "age": "21", "Mobile no": "1020304099",
+        "photo": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg"},
+  {"name": "Prince", "age": "24", "Mobile no": "9068573412",
+        "photo": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl-2.jpg"},
+  {"name": "Kishan", "age": "23", "Mobile no": "1425364758",
+        "photo": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg"},
+  {"name": "Abishek", "age": "26", "Mobile no": "1243765800",
+        "photo": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl-2.jpg"},
+  {"name": "piyush", "age": "21", "Mobile no": "9087651120",
+        "photo": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg"}
+  ]
+}
